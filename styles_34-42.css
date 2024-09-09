@@ -35,3 +35,44 @@ p {
   /* line-height: 15px; */
   line-height: 0.5;
 }
+
+/* №41-1 */
+/* p {
+	font-family: "Times New Roman";
+	font-size: 13px;
+	line-height: 20px;
+} */
+
+p {
+  font: 13px/20px "Times New Roman";
+}
+
+/* №41-2 */
+/* p {
+	width: 300px;
+	font-family: Arial;
+	color: red;
+	font-size: 40px;
+	font-weight: bold;
+} */
+
+p {
+  width: 300px;
+  font: bold 40px Arial;
+  color: red;
+}
+
+/* №41-3 */
+/* p {
+	font-family: Arial;
+	font-size: 40px;
+	font-weight: bold;
+	text-indent: 50px;
+	font-style: italic;
+	line-height: 60px;
+} */
+
+p {
+  font: italic bold 40px/60px Arial;
+  text-indent: 50px;
+}
