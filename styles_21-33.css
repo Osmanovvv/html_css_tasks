@@ -11,6 +11,7 @@ h3 {
 }
 
 p {
+  width: 300px;
   color: orange;
 }
 
@@ -20,4 +21,9 @@ ul {
 
 ol {
   color: rgb(0, 255, 0);
+}
+
+table {
+  width: 400px;
+  height: 300px;
 }
