@@ -2,6 +2,10 @@
 	text-decoration: underline;
 } */
 
-p {
+/* p {
 	text-decoration: overline;
+} */
+
+p {
+	text-decoration: line-through;
 }
