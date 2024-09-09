@@ -32,5 +32,6 @@ p {
   text-align: justify;
   font-family: "Comic Sans MS";
   font-size: 30px;
-  line-height: 15px;
+  /* line-height: 15px; */
+  line-height: 0.5;
 }
