@@ -5,6 +5,7 @@ h1 {
 
 h2 {
   width: 300px;
+  font-family: Arial;
   text-align: center;
   font-style: italic;
   font-size: 40px;
@@ -29,5 +30,6 @@ td {
 p {
   width: 300px;
   text-align: justify;
+  font-family: "Comic Sans MS";
   font-size: 30px;
 }
