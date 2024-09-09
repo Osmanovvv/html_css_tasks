@@ -14,3 +14,10 @@ p {
   color: orange;
 }
 
+ul {
+  color: #008080;
+}
+
+ol {
+  color: rgb(0, 255, 0);
+}
