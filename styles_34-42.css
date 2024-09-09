@@ -45,6 +45,7 @@ p {
 
 p {
   font: 13px/20px "Times New Roman";
+  text-indent: 50px;
 }
 
 /* №41-2 */
@@ -74,5 +75,4 @@ p {
 
 p {
   font: italic bold 40px/60px Arial;
-  text-indent: 50px;
 }
