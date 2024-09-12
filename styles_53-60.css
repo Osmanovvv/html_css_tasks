@@ -13,6 +13,22 @@ p b i {
 
 /* 54 */
 
-li b {
+/* li b {
+    color: red;
+} */
+
+/* 55-1 */
+
+.odd {
+    color: red;
+}
+
+.eve {
+    color: green;
+}
+
+/* 55-2 */
+
+.eee {
     color: red;
 }
