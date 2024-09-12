@@ -61,7 +61,7 @@ p b i {
 	font-family: Arial;
 } */
 
-.eee, .zzz {
+/* .eee, .zzz {
     line-height: 1.5;
     font-family: Arial;
 }
@@ -72,7 +72,7 @@ p b i {
 
 .zzz {
     font-size: 30px;
-}
+} */
 
 /* 58-2 */
 /* Упростите код, используя группировку селекторов: */
@@ -92,7 +92,7 @@ p b i {
 	font-family: Arial;
 } */
 
-.eee, .zzz, .ggg {
+/* .eee, .zzz, .ggg {
     text-align: center;
     font-family: Arial;
 }
@@ -107,4 +107,17 @@ p b i {
 
 .ggg {
     font-size: 35px;
+} */
+
+/* 59 */
+.header {
+	color: red;
+}
+
+h2.header {
+    font-size: 40px;
+}
+
+h3.header {
+    font-size: 30px;
 }
