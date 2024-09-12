@@ -107,16 +107,25 @@
 
 
 /* 66-1 */
-#elem h2 {
+/* #elem h2 {
     color: red
-}
+} */
 
 /* 66-3 */
-#elem p.text {
+/* #elem p.text {
     color: red;
-}
+} */
 
 /* 66-4 */
-#elem li.text {
+/* #elem li.text {
+    color: red;
+} */
+
+
+
+
+
+/* 67 */
+.eee.zzz.ccc {
     color: red;
 }
