@@ -110,7 +110,7 @@ p b i {
 } */
 
 /* 59 */
-.header {
+/* .header {
 	color: red;
 }
 
@@ -120,4 +120,9 @@ h2.header {
 
 h3.header {
     font-size: 30px;
+} */
+
+/* 60 */
+.eee i {
+    color: red
 }
