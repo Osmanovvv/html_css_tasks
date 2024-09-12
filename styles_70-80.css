@@ -117,11 +117,21 @@
 
 
 /* 77-1 */
-#elem + li {
+/* #elem + li {
     color: red;
-}
+} */
 
 /* 77-2 */
-.elem + li {
+/* .elem + li {
+    color: red;
+} */
+
+
+
+
+
+
+/* 78 */
+#elem ~ li {
     color: red;
 }
