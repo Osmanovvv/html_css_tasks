@@ -132,6 +132,15 @@
 
 
 /* 78 */
-#elem ~ li {
+/* #elem ~ li {
+    color: red;
+} */
+
+
+
+
+
+/* 79 */
+main * p {
     color: red;
 }
