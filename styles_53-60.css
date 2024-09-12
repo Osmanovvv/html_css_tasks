@@ -12,13 +12,11 @@ p b i {
 } */
 
 /* 54 */
-
 /* li b {
     color: red;
 } */
 
 /* 55-1 */
-
  /* .odd {
     color: red;
 } 
@@ -28,12 +26,24 @@ p b i {
 } */
 
 /* 55-2 */
-
 /* .eee {
     color: red;
 } */ 
 
 /* 56 */
-.xxx {
+/* .xxx {
     font-size: 30px;
+} */
+
+/* 57 */
+.block-red {
+    color: red;
+}
+
+.block-green {
+    color: green;
+}
+
+.block-blue {
+    color: blue;
 }
