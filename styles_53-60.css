@@ -19,16 +19,21 @@ p b i {
 
 /* 55-1 */
 
-.odd {
+ /* .odd {
     color: red;
-}
+} 
 
 .eve {
     color: green;
-}
+} */
 
 /* 55-2 */
 
-.eee {
+/* .eee {
     color: red;
+} */ 
+
+/* 56 */
+.xxx {
+    font-size: 30px;
 }
