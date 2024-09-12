@@ -51,7 +51,7 @@
 	font-size: 20px;
 } */
 
-#block h1.eee, #block h2.zzz {
+/* #block h1.eee, #block h2.zzz {
     text-align: center;
 }
 
@@ -61,7 +61,7 @@
 
 #block h2.zzz {
 	font-size: 20px;
-}
+} */
 
 
 /* 71-4 */
@@ -72,6 +72,40 @@
 	text-align: center;
 } */
 
-.eee h2.zzz, .xxx {
+/* .eee h2.zzz, .xxx {
     text-align: center;
+} */
+
+
+
+
+
+/* 72-1 */
+/* div p {
+    color: red;
+} */
+
+/* 72-3 */
+/* #block p {
+    color: green;
+} */
+
+/* 72-6 */
+/* #block .bbb {
+    color: blue
+} */
+
+/* 72-9 */
+/* #block p.bbb {
+    color:blueviolet
+} */
+
+/* 72-12 */
+/* #block p.bbb, #block p.xxx {
+    color: red;
+} */
+
+/* 72-17 */
+.fff h2.bbb {
+    color: red;
 }
