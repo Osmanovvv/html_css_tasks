@@ -48,7 +48,7 @@
 
 
 /* 63-1 */
-.success {
+/* .success {
 	color: green;
 }
 .error {
@@ -59,11 +59,11 @@
 }
 .small {
 	font-size: 20px;
-}
+} */
 
 
 /* 63-2 */
-.large {
+/* .large {
 	font-size: 30px;
 }
 .blue {
@@ -71,4 +71,21 @@
 }
 .ls {
     letter-spacing: 5px;
+} */
+
+
+
+
+
+/* 64 */
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
 }
