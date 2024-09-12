@@ -93,11 +93,30 @@
 
 
 
+
 /* 65 */
-#block {
+/* #block {
 	color: red;
 	font-family: Arial;
 }
 .text {
 	font-size: 30px;
+} */
+
+
+
+
+/* 66-1 */
+#elem h2 {
+    color: red
+}
+
+/* 66-3 */
+#elem p.text {
+    color: red;
+}
+
+/* 66-4 */
+#elem li.text {
+    color: red;
 }
