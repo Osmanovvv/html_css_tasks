@@ -159,6 +159,26 @@ p:nth-last-of-type(2) {
 } */
 
 /* 88-3 */
-h2:only-of-type {
+/* h2:only-of-type {
 	color: red;
+} */
+
+
+
+
+
+
+/* 89-1 */
+/* li:not(.elem) {
+    color: red;
+} */
+
+/* 89-2 */
+/* li:not(:first-child) {
+    color: red;
+} */
+
+/* 89-3 */
+li:not(:first-child, :last-child) {
+    color: red;
 }
