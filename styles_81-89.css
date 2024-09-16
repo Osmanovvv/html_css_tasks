@@ -127,7 +127,7 @@ li:nth-child(odd) {
 
 
 /* 87-9 */
-li:nth-child(1n) {
+/* li:nth-child(1n) {
     width: 100px;
     margin-bottom: 10px;
     border: 1px solid red;
@@ -136,4 +136,29 @@ li:nth-child(1n) {
 li:empty {
     width: 100px;
     border: 1px solid blue;
+} */
+
+
+
+
+
+/* 88-1 */
+/* p:first-of-type {
+	color: red;
+}
+p:last-of-type {
+    color: green;
+} */
+
+/* 88-2 */
+/* p:nth-of-type(3) {
+    color: gold;
+}
+p:nth-last-of-type(2) {
+    color: red;
+} */
+
+/* 88-3 */
+h2:only-of-type {
+	color: red;
 }
