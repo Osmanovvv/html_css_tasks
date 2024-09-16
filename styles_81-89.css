@@ -43,9 +43,37 @@ a:active {
 
 
 /* 85 */
-#test a {
+/* #test a {
 	color: red;
 }
 #test a:hover {
+	text-decoration: none;
+} */
+
+
+
+
+
+/* 86-1 */
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+
+/* 86-2 */
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+
+/* 86-3 */
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
 	text-decoration: none;
 }
