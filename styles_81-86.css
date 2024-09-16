@@ -1,5 +1,5 @@
 /* 82 */
-a:link {
+/* a:link {
     color: blue;
 }
 
@@ -14,4 +14,24 @@ a:hover {
 
 a:active {
     color: black;
+} */
+
+/* 84 */
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
+    text-decoration: none;
 }
