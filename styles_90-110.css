@@ -163,6 +163,18 @@
 } */
 
 /* 108-1 */
+/* body {
+    background-image: url('bg.png');
+} */
+
+/* 109-1 */
 body {
+    background-repeat: repeat-y;
+    background-image: url('bg.png');
+}
+
+/* 109-2 */
+body {
+    background-repeat: repeat-x;
     background-image: url('bg.png');
 }
