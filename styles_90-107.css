@@ -107,9 +107,17 @@
 
 
 /* 99-1 */
-#elem {
+/* #elem {
     width: 200px;
     height: 200px;
     border: 1px solid green;
+    border-radius: 30px;
+} */
+
+/* 100-1 */
+#elem {
+    width: 200px;
+    height: 200px;
+    background-color: #4dee99;
     border-radius: 30px;
 }
