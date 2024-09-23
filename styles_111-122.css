@@ -24,6 +24,11 @@
 } */
 
 /* 121-1 */
-ol {
+/* ol {
 	list-style-type: lower-greek;
+} */
+
+/* 122-1 */
+ol {
+	list-style-type: decimal-leading-zero;
 }
