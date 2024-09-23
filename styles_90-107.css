@@ -58,26 +58,49 @@
 
 
 /* 97-1 */
-#elem {
+/* #elem {
     width: 300px;
     height: 200px;
     border: 1px solid red;
-}
+}*/
 
-#elem2 {
+/* 97-2 */
+/* #elem2 {
     width: 300px;
     height: 200px;
     border: 2px dotted blue;
-}
+} */
 
-#elem3 {
+/* 97-3 */
+/* #elem3 {
     width: 300px;
     height: 200px;
     border: 3px dashed green;
-}
+} */
 
-#elem4 {
+/* 97-4 */
+/* #elem4 {
     width: 300px;
     height: 200px;
     border: 5px double orange;
+}  */
+
+/* 98-1 */
+#elem1 {
+    width: 300px;
+    height: 200px;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid red;
+    border-left: 3px solid orange;
+    border-right: 3px solid green;
+}
+
+/* 98-2 */
+#elem2 {
+    width: 300px;
+    height: 200px;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+    border-left: 3px solid red;
+    border-right: 3px dotted green;
 }
