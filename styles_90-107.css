@@ -86,21 +86,30 @@
 }  */
 
 /* 98-1 */
-#elem1 {
+/* #elem1 {
     width: 300px;
     height: 200px;
     border-top: 3px solid blue;
     border-bottom: 3px solid red;
     border-left: 3px solid orange;
     border-right: 3px solid green;
-}
+} */
 
 /* 98-2 */
-#elem2 {
+/* #elem2 {
     width: 300px;
     height: 200px;
     border-top: 1px solid blue;
     border-bottom: 1px solid blue;
     border-left: 3px solid red;
     border-right: 3px dotted green;
+} */
+
+
+/* 99-1 */
+#elem {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 30px;
 }
