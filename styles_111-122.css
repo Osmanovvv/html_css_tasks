@@ -14,6 +14,11 @@
 } */
 
 /* 119-1 */
-ol {
+/* ol {
 	list-style-type: lower-alpha;
+} */
+
+/* 120-1 */
+ol {
+	list-style-type: upper-alpha;
 }
