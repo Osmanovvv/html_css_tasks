@@ -27,7 +27,7 @@
 } */
 
 /* 124-1 */
-#elem1 {
+/* #elem1 {
     width: 200px;
     border: 1px solid red;
 }
@@ -38,10 +38,10 @@
     margin-left: 50px;
     height: 100px;
     border: 1px solid green;
-}
+} */
 
 /* 124-2 */
-#elem3 {
+/* #elem3 {
     width: 200px;
     border: 1px solid red;
 }
@@ -53,10 +53,10 @@
     margin-left: 25px;
     height: 100px;
     border: 1px solid green;
-}
+} */
 
 /* 124-3 */
-#elem5 {
+/* #elem5 {
     width: 200px;
     border: 1px solid red;
 }
@@ -67,4 +67,16 @@
     margin-left: 70px;
     height: 100px;
     border: 1px solid green;
+} */
+
+/* 126-1 */
+#elem1 {
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#elem2 {
+    margin: 25px 50px 100px 10px;
+    height: 50px;
+    border: 1px dashed blue;
 }
