@@ -94,7 +94,7 @@
 } */
 
 /* 128-1 */
-#elem1 {
+/* #elem1 {
     width: 200px;
     border: 1px solid orange;
 }
@@ -103,4 +103,12 @@
     margin: 100px 50px 30px;
     height: 50px;
     border: 1px dashed blue;
+} */
+
+/* 129-1 */
+#elem {
+    padding: 50px;
+    width: 200px;
+    border: 1px solid red;
+    text-align: justify;
 }
