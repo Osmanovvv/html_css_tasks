@@ -106,8 +106,19 @@
 } */
 
 /* 129-1 */
-#elem {
+/* #elem {
     padding: 50px;
+    width: 200px;
+    border: 1px solid red;
+    text-align: justify;
+} */
+
+/* 130-1 */
+#elem {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 30px;
     width: 200px;
     border: 1px solid red;
     text-align: justify;
