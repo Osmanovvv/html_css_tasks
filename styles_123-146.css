@@ -82,13 +82,25 @@
 } */
 
 /* 127-1 */
-#elem1 {
+/* #elem1 {
     width: 200px;
     border: 1px solid orange;
 }
 
 #elem2 {
     margin: 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+} */
+
+/* 128-1 */
+#elem1 {
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#elem2 {
+    margin: 100px 50px 30px;
     height: 50px;
     border: 1px dashed blue;
 }
