@@ -100,7 +100,7 @@
 
 
 
-.parent165 {
+/* .parent165 {
     display: flex;
     margin: 20px auto;
     border: 1px solid red;
@@ -108,5 +108,21 @@
 .child165 {
     width: 120px;
     height: 60px;
+    border: 1px solid green;
+} */
+
+
+
+
+.parent168 {
+    display: inline-flex;
+    
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child168 {
+    width: 120px;
+    height: 60px;
+    margin: 30px;
     border: 1px solid green;
 }
