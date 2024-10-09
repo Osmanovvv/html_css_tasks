@@ -25,8 +25,16 @@
 } */
 
 /* 158 */
-.parent {
+/* .parent {
 	padding: 10px 0;
 	border: 1px solid red;
     text-align: center;
+} */
+
+/* 159 */
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 15px;
 }
