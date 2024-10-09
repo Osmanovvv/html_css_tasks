@@ -173,14 +173,25 @@
 
 
 /* 147-1 */
-p {
+/* p {
     display: inline;
 } */
 
 /* 147-2 */
-a {
+/* a {
     display: block;
     width: 100px;
     height: 100px;
     border: 1px solid black;
+} */
+
+
+
+
+/* 152-1 */
+div {
+    display: inline-block;
+ width: 100px;
+ height: 100px;
+ border: 1px solid red;
 }
