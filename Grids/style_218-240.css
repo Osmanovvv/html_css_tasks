@@ -113,3 +113,28 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+
+
+
+
+#parent225-1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: 20% 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent225-2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: 100px 20% 1fr 2fr 4fr;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent225-1 div, #parent225-2 div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
