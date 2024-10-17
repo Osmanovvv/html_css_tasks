@@ -31,3 +31,35 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+
+
+
+#parent222-1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent222-2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent222-3 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent222-1 div, #parent222-2 div, #parent222-3 div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
