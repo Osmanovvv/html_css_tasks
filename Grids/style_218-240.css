@@ -138,3 +138,36 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+
+
+
+
+#parent226-1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent226-2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 100px) repeat(3, 2fr);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent226-3 {
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(2, 100px) repeat(3, 200px) 1fr repeat(2, 10%);
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent226-1 div, #parent226-2 div, #parent226-3 div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
