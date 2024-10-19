@@ -248,3 +248,38 @@
 	border: 1px solid #696989;
     text-align: center;
 }
+
+
+
+
+
+
+
+#parent232-1 {
+    width: 600px;
+    display: grid;
+    grid-template: 60px 130px / 60px 130px 130px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent232-3 {
+    width: 600px;
+    display: grid;
+    grid-template: 40px 40px 80px 150px / 60px 150px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent232-5 {
+    width: 600px;
+    display: grid;
+    grid-template: 200px 100px / 50px 50px 100px auto auto;
+    border: 2px solid #696989;
+    padding: 10px;
+}
+
+#parent232-1 div, #parent232-3 div, #parent232-5 div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
