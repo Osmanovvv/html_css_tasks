@@ -342,3 +342,17 @@
 
 
 
+#parent237-1 {
+	display: grid;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    column-gap: 20%;
+	border: 1px solid #696989;
+	padding: 10px;
+	width: 600px;
+}
+
+#parent237-1 > div {
+    padding: 10px;
+	border: 1px solid #696989;
+    text-align: center;
+}
