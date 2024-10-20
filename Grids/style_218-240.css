@@ -377,3 +377,33 @@
 	border: 1px solid #696989;
     text-align: center;
 }
+
+
+
+
+
+#parent239-1 {
+	display: grid;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    gap: 10px;
+	border: 1px solid #696989;
+	padding: 10px;
+	width: 600px;
+    height: 250px;
+}
+
+#parent239-2 {
+	display: grid;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    gap: 10px 5%;
+	border: 1px solid #696989;
+	padding: 10px;
+	width: 600px;
+    height: 250px;
+}
+
+#parent239-1 > div, #parent239-2 > div {
+    padding: 10px;
+	border: 1px solid #696989;
+    text-align: center;
+}
